@@ -1,4 +1,5 @@
 
 void main() {
-    System.out.println("====Gestion de Vehiculos===");
+    IO.println("===Sistema Gestion de Vehiculos===");
+    IO.println("");
 }
